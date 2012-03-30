@@ -1,0 +1,10 @@
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\bin\Debug\Rantdriven.Tests.dll
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\bin\Debug\Rantdriven.Tests.pdb
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\bin\Debug\Moq.dll
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\bin\Debug\Moq.pdb
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\bin\Debug\Moq.xml
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\obj\Debug\Rantdriven.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\obj\Debug\Rantdriven.Tests.dll
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Tests\obj\Debug\Rantdriven.Tests.pdb
