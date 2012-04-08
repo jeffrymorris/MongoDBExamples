@@ -5,7 +5,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rantdriven", "Rantdriven\Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rantdriven.Tests", "Rantdriven.Tests\Rantdriven.Tests.csproj", "{C4A37B36-A284-4D3C-9B7C-9B4DC2C8B49F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rantdriven.Model", "Rantdriven.Model\Rantdriven.Model.csproj", "{3C5CFAF8-E45D-401F-9EB3-9796BF537C9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rantdriven.Persistence", "Rantdriven.Model\Rantdriven.Persistence.csproj", "{3C5CFAF8-E45D-401F-9EB3-9796BF537C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rantdriven.Core", "Rantdriven.Core\Rantdriven.Core.csproj", "{1F4146B6-B36D-4A63-8D30-F785E206D1E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F4146B6-B36D-4A63-8D30-F785E206D1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4146B6-B36D-4A63-8D30-F785E206D1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4146B6-B36D-4A63-8D30-F785E206D1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4146B6-B36D-4A63-8D30-F785E206D1E7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C5CFAF8-E45D-401F-9EB3-9796BF537C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3C5CFAF8-E45D-401F-9EB3-9796BF537C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C5CFAF8-E45D-401F-9EB3-9796BF537C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU

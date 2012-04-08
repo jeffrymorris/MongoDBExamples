@@ -1,0 +1,5 @@
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\Rantdriven.Core.dll
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\Rantdriven.Core.pdb
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.csprojResolveAssemblyReference.cache
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.dll
+C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.pdb
