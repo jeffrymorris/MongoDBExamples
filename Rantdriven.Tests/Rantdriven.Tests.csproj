@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MongoDB.Driver">
+      <HintPath>..\packages\mongocsharpdriver.1.4\lib\net35\MongoDB.Driver.dll</HintPath>
+    </Reference>
     <Reference Include="Moq">
       <HintPath>..\packages\Moq.4.0.10827\lib\NET40\Moq.dll</HintPath>
     </Reference>
@@ -39,6 +42,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,12 +51,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeControllerTests.cs" />
+    <Compile Include="MongoApplicationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Rantdriven.Core\Rantdriven.Core.csproj">
+      <Project>{1F4146B6-B36D-4A63-8D30-F785E206D1E7}</Project>
+      <Name>Rantdriven.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Rantdriven.Model\Rantdriven.Persistence.csproj">
+      <Project>{3C5CFAF8-E45D-401F-9EB3-9796BF537C9D}</Project>
+      <Name>Rantdriven.Persistence</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Rantdriven\Rantdriven.csproj">
       <Project>{d1f278ba-8ae8-44c0-967e-873d16881185}</Project>
       <Name>Rantdriven</Name>

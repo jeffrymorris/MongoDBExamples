@@ -13,7 +13,7 @@ namespace Rantdriven.Core
         public static void Main(IMongoApplication application)
         {
             var connectionString = ConfigurationManager.AppSettings["MongoDb"];
-            application.Mongod = MongoServer.Create(connectionString);
+            application.Init();
         }
     }
 }

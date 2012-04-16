@@ -48,7 +48,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bootstrap.cs" />
+    <Compile Include="IDataAccess.cs" />
+    <Compile Include="IDataTransfer.cs" />
     <Compile Include="IMongoApplication.cs" />
+    <Compile Include="MongoApplication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

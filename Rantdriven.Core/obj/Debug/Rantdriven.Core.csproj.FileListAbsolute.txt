@@ -1,5 +1,11 @@
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\Rantdriven.Core.dll
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\Rantdriven.Core.pdb
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.csprojResolveAssemblyReference.cache
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.dll
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.pdb
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\Rantdriven.Core.dll
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\Rantdriven.Core.pdb
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\MongoDB.Bson.dll
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\MongoDB.Driver.dll
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\MongoDB.Bson.pdb
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\MongoDB.Driver.pdb
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\bin\Debug\MongoDB.Driver.xml
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.csprojResolveAssemblyReference.cache
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.dll
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Core\obj\Debug\Rantdriven.Core.pdb

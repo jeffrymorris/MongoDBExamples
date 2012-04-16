@@ -9,6 +9,13 @@ namespace Rantdriven.Core
 {
     public interface IMongoApplication
     {
-        MongoServer Mongod { get; set; }
+        MongoServer Mongod { get; }
+
+        MongoDatabase GetDatabase(string databaseName);
+
+        MongoServerSettings ServerSettings { get; }
+
+        void Init();
     }
 }
+    

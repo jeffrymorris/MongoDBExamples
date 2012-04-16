@@ -1,5 +1,7 @@
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Model\bin\Debug\Rantdriven.Persistence.dll
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Model\bin\Debug\Rantdriven.Persistence.pdb
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Model\obj\Debug\Rantdriven.Persistence.csprojResolveAssemblyReference.cache
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Model\obj\Debug\Rantdriven.Persistence.dll
-C:\Users\jmorris\Documents\Visual Studio 11\Projects\Rantdriven\Rantdriven.Model\obj\Debug\Rantdriven.Persistence.pdb
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Model\bin\Debug\Rantdriven.Persistence.dll
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Model\bin\Debug\Rantdriven.Persistence.pdb
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Model\obj\Debug\Rantdriven.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Model\obj\Debug\Rantdriven.Persistence.dll
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Model\obj\Debug\Rantdriven.Persistence.pdb
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Model\bin\Debug\Rantdriven.Persistence.dll.CodeAnalysisLog.xml
+C:\Users\jmorris\documents\visual studio 11\Projects\Rantdriven\Rantdriven.Model\bin\Debug\Rantdriven.Persistence.dll.lastcodeanalysissucceeded
